@@ -1,0 +1,4 @@
+MANGODB_URI="mongodb+srv://sabobeh:anas94@cluster0.2i4fbfb.mongodb.net/?retryWrites=true&w=majority"
+PORT=8080
+ADMIN_USERNAME="anasesra"
+ADMIN_PASSWORD="572000"
